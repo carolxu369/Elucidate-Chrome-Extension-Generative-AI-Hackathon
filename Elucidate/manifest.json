@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "Elucidate",
+    "description": "Elucidate enhances web accessibility by dynamically modifying and translating selected text to accommodate users with varied literacy levels and language proficiencies.", 
+    "version": "1.0",
+    "permissions": ["activeTab", "scripting"],
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["main.js"]
+      }
+    ],
+    "icons": {
+      "16": "icons/reading_16.png",
+      "48": "icons/reading_48.png",
+      "128": "icons/reading_128.png"
+    },
+    "web_accessible_resources": [
+      "icons/reading_16.png",
+      "icons/reading_48.png",
+      "icons/reading_128.png"
+    ]
+  }
