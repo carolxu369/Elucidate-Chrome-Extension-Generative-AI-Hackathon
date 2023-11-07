@@ -49,11 +49,11 @@ After installation, you can follow these steps to use Elucidate on any website:
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Change Reading Level:**
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="readme_img/result4.png" alt="Change Reading Level" width="380" height="350"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="readme_img/result5.png" alt="After Change" width="380" height="350">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="readme_img/result4.png" alt="Change Reading Level" width="380" height="350"> <img src="readme_img/result5.png" alt="After Change" width="380" height="350">
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Change Reading Level and Language:**
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="readme_img/result6.png" alt="Change Language and Reading Level" width="380" height="350"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="readme_img/result7.png" alt="After Change" width="380" height="350">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="readme_img/result6.png" alt="Change Language and Reading Level" width="380" height="350"> &nbsp;&nbsp;&nbsp; <img src="readme_img/result7.png" alt="After Change" width="380" height="350">
 
 ## Challenges We Faced
 - Selecting the optimal model for API requests to balance accuracy and response time.
