@@ -1,9 +1,9 @@
 # Elucidate Chrome Extension - Winner of Duke Generative AI Hackathon
 
 ## Introduction
-**Elucidate** is an innovative AI-powered Chrome Extension designed to make the web more accessible for everyone. With over a billion individuals facing literacy challenges, Elucidate serves as a bridge to simplify and translate the online text, breaking down language barriers and enhancing comprehension for non-native speakers and learners with varying levels of literacy.  
+**Elucidate** is an innovative AI-powered Chrome Extension designed to make the web more accessible for everyone. With over a billion individuals facing literacy challenges, Elucidate serves as a bridge to simplify and translate the online text, breaking down language barriers and enhancing comprehension for non-native speakers and learners with varying levels of literacy.    
 
-<img src="readme_img/page.png" alt="Elucidate Interface" width="350" height="350"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="readme_img/page.png" alt="Elucidate Interface" width="350" height="350"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="readme_img/result1.png" alt="A Wikipedia page with our extension installed" width="380" height="350">
 
 ## Features
@@ -21,33 +21,39 @@ Waiting for the Extension to be packed and officially released on Chrome Web Sto
    git clone https://github.com/carolxu369/Elucidate-Chrome-Extension-Generative-AI-Hackathon.git
    ```
    Note: You have to replace the **API_KEY** in **main.js** with your own private API key from OpenAI.
+  
 2. Navigate to `chrome://extensions/` in your Chrome browser.
+  
 3. Enable Developer Mode.
+  
 4. Click "Load unpacked" and select the directory where you cloned Elucidate.
 
 ## Usage
 After installation, you can follow these steps to use Elucidate on any website:
-1. Enable your Elucidate Chrome Extension in your Extension webpage and pin this extension as you need.  
-
-![Chrome Extension](readme_img/extension.png)  
-
-2. Open any website and simply highlight any text on the webpage.  
-
-![Select the text](readme_img/result2.png)  
-
-3. Click the Elucidate icon located on the bottom right corner of the webpage.  
-
-![Open the extension](readme_img/result3.png)  
-
-4. Choose your desired reading level and/or language translation.  
-
-5. Within seconds (depending on the length of text you select), the text will be transformed right before your eyes!  
-
-**Change Reading Level**  
-![Change reading level](readme_img/result4.png) ![Changed text](readme_img/result5.png)  
-
-**Change Reading Level and Language**  
-![Change language and reading level](readme_img/result6.png) ![Changed text](readme_img/result7.png)  
+  
+1. Enable your Elucidate Chrome Extension in your Extension webpage and pin this extension as you need.
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="readme_img/extension.png" alt="Elucidate Extension" width="380" height="200">
+  
+2. Open any website and simply highlight any text on the webpage.
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="readme_img/result2.png" alt="Select Text" width="380" height="350">
+  
+3. Click the Elucidate icon located on the bottom right corner of the webpage.
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="readme_img/result3.png" alt="Open the Extension" width="380" height="350">
+  
+4. Choose your desired reading level and/or language translation.
+  
+5. Within seconds (depending on the length of text you select), the text will be transformed right before your eyes!
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Change Reading Level:**
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="readme_img/result4.png" alt="Change Reading Level" width="380" height="350"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="readme_img/result5.png" alt="After Change" width="380" height="350">
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Change Reading Level and Language:**
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="readme_img/result6.png" alt="Change Language and Reading Level" width="380" height="350"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="readme_img/result7.png" alt="After Change" width="380" height="350">
 
 ## Challenges We Faced
 - Selecting the optimal model for API requests to balance accuracy and response time.
