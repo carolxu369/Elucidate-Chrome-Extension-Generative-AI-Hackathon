@@ -1,6 +1,7 @@
 # Elucidate Chrome Extension - Winner of Duke Generative AI Hackathon
 
 ## Introduction
+
 **Elucidate** is an innovative AI-powered Chrome Extension designed to make the web more accessible for everyone. With over a billion individuals facing literacy challenges, Elucidate serves as a bridge to simplify and translate the online text, breaking down language barriers and enhancing comprehension for non-native speakers and learners with varying levels of literacy.    
 
 <img src="readme_img/page.png" alt="Elucidate Interface" width="350" height="350"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
